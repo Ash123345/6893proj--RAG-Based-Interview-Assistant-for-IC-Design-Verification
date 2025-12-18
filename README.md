@@ -1,5 +1,5 @@
 # 6893proj--RAG-Based-Interview-Assistant-for-IC-Design-Verification
-CUEE 6893 course project
+CUEE 6893 course project, ID:202512-15
 # RAG-Based Interview Assistant for IC Design & Verification
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot designed to assist students and engineers preparing for **digital IC design and verification interviews**. The system retrieves information from curated technical PDFs and generates grounded, domain-specific answers using a local large language model.
