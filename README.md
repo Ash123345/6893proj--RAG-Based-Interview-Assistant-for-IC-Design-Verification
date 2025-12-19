@@ -1,4 +1,4 @@
-# 6893proj--RAG-Based-Interview-Assistant-for-IC-Design-Verification
+# 202512-15 6893proj--RAG-Based-Interview-Assistant-for-IC-Design-Verification
 CUEE 6893 course project, ID:202512-15
 # RAG-Based Interview Assistant for IC Design & Verification
 
